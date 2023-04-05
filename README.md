@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GRajin.
-- 👀 I’m interested in Android App Development.
-- 🌱 I’m currently learning my Bachelor's program in Computer Science and Engineering.
+- 👀 I’m an Android App Developer.
+- 🌱 I’m currently pursuing my Bachelor's program in Computer Science and Engineering.
 - 📫 Contact me via my mail -> rajin.gangadharan@gmail.com
 
 <!---
