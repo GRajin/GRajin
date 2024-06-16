@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GRajin.
 - 👀 I’m an Android App Developer.
-- 🌱 I’m currently pursuing my Bachelor's program in Computer Science and Engineering.
+- 🌱 Currently working as Mobile Application Developer
 - 📫 Contact me via my mail -> rajin.gangadharan@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats-rajin-gangadharans-projects.vercel.app/api?username=grajin&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
