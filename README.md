@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GRajin.
-- 👀 I’m an Android App Developer.
+- 👀 I’m an Mobile Application & ROM Developer.
 - 🌱 Currently working as Mobile Application Developer
 - 📫 Contact me via my mail -> rajin.gangadharan@gmail.com
 
