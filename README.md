@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GRajin.
-- 👀 I’m an Mobile Application & ROM Developer.
-- 🌱 Currently working as Mobile Application Developer
+- 👀 I’m a Cross Platform Mobile Application & ROM Developer.
 - 📫 Contact me via my mail -> rajin.gangadharan@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats-rajin-gangadharans-projects.vercel.app/api?username=grajin&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
